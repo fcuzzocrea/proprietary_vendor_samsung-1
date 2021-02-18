@@ -29,3 +29,7 @@ PRODUCT_COPY_FILES += \
 # Sensors
 PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/lib/sensors.universal5420.so:system/lib/sensors.universal5420.so
+
+# RIL
+PRODUCT_COPY_FILES += \
+    vendor/samsung/klimtlte/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so
