@@ -48,9 +48,17 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagall-common/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/chagall-common/proprietary/vendor/bin/vcsFPService:$(TARGET_COPY_OUT_VENDOR)/bin/vcsFPService \
     vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_apsta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_apsta.bin \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_apsta.bin_4354_a0:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_apsta.bin_4354_a0 \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_apsta.bin_4354_a1:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_apsta.bin_4354_a1 \
     vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_ibss.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_ibss.bin \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_ibss.bin_4354_a0:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_ibss.bin_4354_a0 \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_ibss.bin_4354_a1:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_ibss.bin_4354_a1 \
     vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_mfg.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_mfg.bin \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_mfg.bin_4354_a0:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_mfg.bin_4354_a0 \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_mfg.bin_4354_a1:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_mfg.bin_4354_a1 \
     vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_sta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_sta.bin \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_sta.bin_4354_a0:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_sta.bin_4354_a0 \
+    vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_sta.bin_4354_a1:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_sta.bin_4354_a1 \
     vendor/samsung/chagall-common/proprietary/etc/wifi/cred.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/cred.conf \
     vendor/samsung/chagall-common/proprietary/etc/wifi/nvram_mfg.txt_4354_a0:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/nvram_mfg.txt_4354_a0 \
     vendor/samsung/chagall-common/proprietary/etc/wifi/nvram_mfg.txt_4354_a1:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/nvram_mfg.txt_4354_a1 \

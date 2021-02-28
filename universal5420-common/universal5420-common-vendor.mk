@@ -20,7 +20,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/universal5420-common/proprietary/vendor/bin/gpsd:$(TARGET_COPY_OUT_VENDOR)/bin/gpsd \
     vendor/samsung/universal5420-common/proprietary/vendor/bin/mcDriverDaemon:$(TARGET_COPY_OUT_VENDOR)/bin/mcDriverDaemon \
-    vendor/samsung/universal5420-common/proprietary/vendor/lib/hw/gatekeeper.universal5420.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.universal5420.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/hw/gps.universal5420.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.universal5420.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libGLES_trace.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGLES_trace.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libMcClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcClient.so \
