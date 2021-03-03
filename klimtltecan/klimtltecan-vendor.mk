@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimtltecan/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/klimtltecan/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/klimtltecan/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/klimtltecan/proprietary/lib/libprotobuf-cpp-haxx.so:system/lib/libprotobuf-cpp-haxx.so \
     vendor/samsung/klimtltecan/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt \
     vendor/samsung/klimtltecan/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt \
     vendor/samsung/klimtltecan/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_EARPIECE.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_EARPIECE.txt \
