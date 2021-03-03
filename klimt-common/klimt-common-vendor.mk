@@ -54,14 +54,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimt-common/proprietary/etc/wifi/cred.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/cred.conf \
     vendor/samsung/klimt-common/proprietary/etc/wifi/nvram_mfg.txt:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/nvram_mfg.txt \
     vendor/samsung/klimt-common/proprietary/etc/wifi/nvram_net.txt:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/nvram_net.txt \
-    vendor/samsung/klimt-common/proprietary/vendor/lib/sensors.universal5420.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.universal5420.so \
     vendor/samsung/klimt-common/proprietary/vendor/lib/libak09911c.so:$(TARGET_COPY_OUT_VENDOR)/lib/libak09911c.so \
     vendor/samsung/klimt-common/proprietary/vendor/lib/libfpasmtztransport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfpasmtztransport.so \
     vendor/samsung/klimt-common/proprietary/vendor/lib/libvalAuth.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvalAuth.so \
     vendor/samsung/klimt-common/proprietary/vendor/lib/libvcsfp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcsfp.so \
     vendor/samsung/klimt-common/proprietary/vendor/lib/libvfmClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvfmClient.so \
     vendor/samsung/klimt-common/proprietary/vendor/lib/libvfmtztransport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvfmtztransport.so \
-    vendor/samsung/klimt-common/proprietary/vendor/firmware/bcm4350_V0301.0609.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm4350_V0301.0609.hcd \
     vendor/samsung/klimt-common/proprietary/vendor/firmware/fimc_is_fw2_IMX134_EEPROM.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fw2_IMX134_EEPROM.bin \
     vendor/samsung/klimt-common/proprietary/vendor/firmware/setfile_6b2_eeprom.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_6b2_eeprom.bin \
     vendor/samsung/klimt-common/proprietary/vendor/firmware/setfile_imx134_eeprom.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx134_eeprom.bin

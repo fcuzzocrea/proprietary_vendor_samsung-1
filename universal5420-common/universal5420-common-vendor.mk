@@ -18,18 +18,16 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/universal5420-common
 
 PRODUCT_COPY_FILES += \
-    vendor/samsung/universal5420-common/proprietary/vendor/bin/gpsd:$(TARGET_COPY_OUT_VENDOR)/bin/gpsd \
     vendor/samsung/universal5420-common/proprietary/vendor/bin/mcDriverDaemon:$(TARGET_COPY_OUT_VENDOR)/bin/mcDriverDaemon \
-    vendor/samsung/universal5420-common/proprietary/vendor/lib/hw/gps.universal5420.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.universal5420.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libGLES_trace.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGLES_trace.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libMcClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcClient.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libMcRegistry.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcRegistry.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libaptX_encoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaptX_encoder.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libexynoscamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera.so \
-    vendor/samsung/universal5420-common/proprietary/vendor/lib/libfloatingfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfloatingfeature.so \
     vendor/samsung/universal5420-common/proprietary/vendor/lib/libvdis.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvdis.so \
     vendor/samsung/universal5420-common/proprietary/vendor/bin/hw/android.hardware.drm@1.1-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.1-service.widevine \
     vendor/samsung/universal5420-common/proprietary/vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.1-service.widevine.rc \
+    vendor/samsung/universal5420-common/proprietary/vendor/firmware/bcm4350_V0301.0609.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm4350_V0301.0609.hcd \
     vendor/samsung/universal5420-common/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
     vendor/samsung/universal5420-common/proprietary/vendor/firmware/srp_cga.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/srp_cga.bin \
     vendor/samsung/universal5420-common/proprietary/vendor/firmware/srp_data.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/srp_data.bin \
